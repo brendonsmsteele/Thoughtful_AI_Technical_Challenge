@@ -5,7 +5,7 @@ A simple Python script that determines whether a package is **STANDARD**, **SPEC
 ## 🏃 How to Run
 
 ```bash
-python3 package_stack.py
+python3 package_stack_category.py
 ```
 
 ## If all Tests Pass the output will be
