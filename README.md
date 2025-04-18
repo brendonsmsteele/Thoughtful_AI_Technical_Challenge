@@ -1,6 +1,6 @@
 # 📦 Package Stack Category (Python)
 
-A simple Python script that determines whether a package is **STANDARD**, **SPECIAL**, or **REJECTED** based on its dimensions and mass.
+A simple Python script that determines whether a package is **STANDARD**, **SPECIAL**, or **REJECTED** based on its dimensions and mass.  Contains a suite of tests that assert expected outputs given fixed inputs.
 
 ## 🏃 How to Run
 
